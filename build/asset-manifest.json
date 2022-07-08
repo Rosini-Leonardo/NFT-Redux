@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c91d75.chunk.css",
+    "main.js": "/static/js/main.dd0cf799.chunk.js",
+    "main.js.map": "/static/js/main.dd0cf799.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7d637ced.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7d637ced.js.map",
+    "static/js/2.021979a5.chunk.js": "/static/js/2.021979a5.chunk.js",
+    "static/js/2.021979a5.chunk.js.map": "/static/js/2.021979a5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e6c91d75.chunk.css.map": "/static/css/main.e6c91d75.chunk.css.map",
+    "static/js/2.021979a5.chunk.js.LICENSE.txt": "/static/js/2.021979a5.chunk.js.LICENSE.txt",
+    "static/media/cart.e13368a1.svg": "/static/media/cart.e13368a1.svg",
+    "static/media/left-arrow.2b9fe831.svg": "/static/media/left-arrow.2b9fe831.svg",
+    "static/media/logo-footer.8d1d2df6.svg": "/static/media/logo-footer.8d1d2df6.svg",
+    "static/media/logo.76d347d2.svg": "/static/media/logo.76d347d2.svg",
+    "static/media/nft-img.2e5e049c.png": "/static/media/nft-img.2e5e049c.png",
+    "static/media/purple-cart.96fba879.svg": "/static/media/purple-cart.96fba879.svg",
+    "static/media/right-arrow.1801fbce.svg": "/static/media/right-arrow.1801fbce.svg",
+    "static/media/search-media.f8e7ed06.svg": "/static/media/search-media.f8e7ed06.svg",
+    "static/media/small-right-arrow.b0f84696.svg": "/static/media/small-right-arrow.b0f84696.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d637ced.js",
+    "static/js/2.021979a5.chunk.js",
+    "static/css/main.e6c91d75.chunk.css",
+    "static/js/main.dd0cf799.chunk.js"
+  ]
+}
