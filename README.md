@@ -35,8 +35,7 @@ Api that allows you to build your own stock photo library.
 
 ### Make it work
 
-To make the project work on localhost you have to install
-the folder and then with the command  
-`npm install` install all dependencies.  
+To make the project work on localhost you have to install the folder and then with   
+the command `npm install` install all dependencies.  
 Excellent !  
 Now you are ready to make the project work, simple isn't it? 😉
