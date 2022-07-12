@@ -1,3 +1,0 @@
- [context.production.environment]
-    REACT_APP_UNSPLASH_API = "https://api.unsplash.com/"
-    REACT_APP_UNSPLASH_CLIENT_ID = "0A4XvZRDjdVn48a8j3R_auMLeBMjlU1Ykp8cuCG9WCs"
