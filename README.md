@@ -27,15 +27,17 @@ __Reach Router__:
 Router used in the project  
 https://reach.tech/router/
 
-### API
+## API
 
 Unsplash: https://unsplash.com/developers
 
 Api that allows you to build your own stock photo library.
 
-### Make it work
+## Make it work
 
 To make the project work on localhost you have to install the folder and then with   
 the command `npm install` install all dependencies.  
 Excellent !  
 Now you are ready to make the project work, simple isn't it? 😉
+
+## Link to project: https://nft-redux.netlify.app
