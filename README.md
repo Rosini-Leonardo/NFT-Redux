@@ -38,6 +38,6 @@ Api that allows you to build your own stock photo library.
 To make the project work on localhost you have to install the folder and then with   
 the command `npm install` install all dependencies.  
 Excellent !  
-Now you are ready to make the project work, simple isn't it? 😉
+Now you should manage your own Unsplash' API and you are ready to make the project work, simple isn't it? 😉
 
 ## Link to project: https://nft-redux.netlify.app
